@@ -1,6 +1,8 @@
 # NBA-Games-Prediction-Model
 **Developed a machine learning model using Python and historical data to predict the outcomes of NBA games.**
+
 **Implemented web-scraping to gather data from box scores and standings, ensuring a comprehensive dataset.**
+
 **Analyzed model performance using various metrics to optimize accuracy and prediction reliability.**
 
 
